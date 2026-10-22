@@ -1,0 +1,6 @@
+{
+  "name": "PharmaIntel — PSP Opportunity Monitor",
+  "description": "Enterprise pharmaceutical intelligence platform for monitoring US FDA drug approvals, evaluating rule-based Patient Support Program (PSP) opportunity scores, verifying official FDA sources, and managing B2B outreach pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
